@@ -1,6 +1,6 @@
 package Acme::ctreptow;
 
-use 5.006
+use 5.006;
 use strict;
 use warnings;
 
@@ -10,13 +10,13 @@ Acme::ctreptow - The great new Acme::ctreptow!
 
 =head1 VERSION
 
-Version 0.02
+Version 0.02_02
 
 =cut
 
 # the underscore indicates a development version
 
-our $VERSION = '0.02_01';
+our $VERSION = '0.02_02';
 
 
 =head1 SYNOPSIS
