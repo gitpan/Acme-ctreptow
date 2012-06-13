@@ -10,11 +10,13 @@ Acme::ctreptow - The great new Acme::ctreptow!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.02';
+# the underscore indicates a development version
+
+our $VERSION = '0.02_01';
 
 
 =head1 SYNOPSIS

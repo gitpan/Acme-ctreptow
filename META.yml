@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-ctreptow
-version:            0.02
+version:            0.02_01
 abstract:           The great new Acme::ctreptow!
 author:
     - Craig Treptow <craig.treptow@gmail.com>
